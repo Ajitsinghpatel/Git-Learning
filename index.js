@@ -11,3 +11,5 @@ function add(){
     let b=54;
     console.log(a+b);
 }
+
+add();
